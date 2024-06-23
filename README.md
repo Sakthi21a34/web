@@ -1,1 +1,1 @@
-# web
+This project demonstrates a simple responsive webpage using HTML and CSS. The webpage changes its background color based on the screen size to enhance user experience on different devices.
